@@ -8,8 +8,7 @@ public class LeituraGertrudes {
             int numeroDias = paginas / paginasLidas; 
             
             System.out.println(numeroDias + " dias");
-        } 
-        
+        }
     
     }
 }
